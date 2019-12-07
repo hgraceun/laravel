@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Chok1 Way Ligo
+                    Chok1 Way gwapo
                 </div>
 
                 <div class="links">
